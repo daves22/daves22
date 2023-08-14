@@ -1,10 +1,8 @@
 ### Olá! Eu sou Davi 👋
 
-- 🔭 Hoje estudo engenharia de Software na Universidade de Brasília(UnB)
+- 🔭 Hoje estudo engenharia na Universidade de Brasília(UnB)
 - 🌱 Estudando JavaScript, Python, SQL
-- 📫 contate-me no email: davisilvamatias@gmail.com
-- 😄 Pronouns: ele/dele
-
+- 📫 
 
 <div>
   <a href="https://github.com/daves22">
