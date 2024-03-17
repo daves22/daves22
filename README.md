@@ -1,7 +1,8 @@
 ### Olá! Eu sou Davi 👋
 
-- 🔭 Hoje estudo Engenharia de Softwarena Universidade de Brasília(UnB)
-- 🌱 Estudando HTML, CSS e SQL
+- 🔭 Cursando Engenharia da Computação Universidade de Brasília(UnB)
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Python, SQL
 - 📫 Contate-me em: davisilvamatias@gmail.com
 
 <div>
