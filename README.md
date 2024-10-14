@@ -14,6 +14,7 @@
   <img align="center" alt="daves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="daves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="daves-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daves22&layout=compact)](https://github.com/daves22/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=daves22&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-  
    ##
