@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Engenharia da Computação Universidade de Brasília(UnB)
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Python, SQL
+- 🌱 Trabalhando com HTML, CSS e JavaScript
 - 📫 Contate-me em: davisilvamatias@gmail.com
 
 
