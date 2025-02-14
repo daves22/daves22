@@ -1,8 +1,8 @@
 ### Olá! Eu sou Davi 👋
 
-- 🔭 Cursando Engenharia da Computação Universidade de Brasília(UnB)
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Trabalhando com HTML, CSS e JavaScript
+- 🔭 Cursando Engenharia da Computação Universidade de Brasília (UnB)
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Trabalhando com Desenvolvimento Web
 - 📫 Contate-me em: davisilvamatias@gmail.com
 
 
